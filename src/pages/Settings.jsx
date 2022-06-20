@@ -1,5 +1,5 @@
 import React from 'react'
-import ThemeMenu from '../components/molecules/thememenu/ThemeMenu'
+// import ThemeMenu from '../components/molecules/thememenu/ThemeMenu'
 
 const Settings = () => {
     

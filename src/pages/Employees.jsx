@@ -9,7 +9,7 @@ const employeeTableHead = [
     'id',
     'empleado',
     'usuario',
-    'claveclave',
+    'clave',
     'rol',
     'modalidad',
     'estado'
